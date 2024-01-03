@@ -1,0 +1,45 @@
+{
+    "navbar": {
+        "home": "Home",
+        "services": "Services",
+        "about": "About me",
+        "contact": "Contact"
+    },
+    "home": {
+        "home_about_text_1": "I am a doctor specialized in diagnostic imaging. My career includes training in Nuclear Medicine, international studies in Computed Tomography and Magnetic Resonance, as well as a continuous dedication to medical practice and teaching. My commitment to training future doctors and improving healthcare has been a constant in my career. Learn more about my history and contributions to the field of medicine!",
+        "home_about_btn_1": " View more",
+        "home_services_title_1": "Distance Study Reports",
+        "home_services_text_1": "Aimed at: Medical institutions, doctors and patients for first or second opinion. Studies carried out in other diagnostic centers.",
+        "home_contact_text_1": "Send an email"
+    },
+    "services": {
+        "title_1": "Telediagnosis",
+        "text_1": "With our telediagnosis service, Dr. María Levin provides remote study reports and diagnoses. Efficiency and precision are essential to provide fast, quality support to healthcare professionals.",
+        "title_2": "Magnetic resonance",
+        "text_2": "We offer advanced MRI services to obtain detailed images of internal structures. Our highly trained team ensures accurate studies and detailed analyzes to support the medical diagnosis.",
+        "title_3": "Computed Tomography",
+        "text_3": "We perform high-quality computed tomography studies to obtain detailed images of organs and tissues. Our accurate and reliable reports contribute to accurate diagnosis and proper treatment plan."
+    },
+    "about": {
+        "text_1": "Graduated from the UBA Faculty of Medicine in 1975, with a first specialization in Nuclear Medicine - the theoretical part studied at the CONEA Heavy Water facilities in Ezeiza, the practical part as a rotation in the Nuclear Medicine Service of the Roffo Hospital. In 1980 I won a scholarship from the General Electric company to study Computed Tomography in San Francisco, California, USA and during those months I also studied Magnetic Resonance in South San Francisco, with Dr. León Kaufman who was developing a prototype. Between 1981 and 1986 I worked in a private clinic in Rio de Janeiro, Brazil in charge of Neuroimaging, especially Tomography of the brain and spine. From 1989 to 2002 I worked in Magnetic Resonance with Dr Alberto Eurnekián at the San Martín de Tours clinic and Argerich Hospital (Outsourced Service). Since 1995 to date, I have been in charge of the Computed Tomography Service at the Santojanni Hospital, where I carry out the practical part and also teach since in this hospital (attached to UBA) the Medicine Course is taught from the First Year. I was also a teacher at UNSAM between 2000 and 2022 for the Technique in Diagnostic Imaging. Buenos Aires, September 18, 2023"
+    },
+    "contact": {
+        "title_1": "Please, complete the following information",
+        "input_name": "Name",
+        "input_lastname": "Lastname",
+        "input_institution": "Institution",
+        "input_email": "E-mail",
+        "input_phone": "Phone",
+        "input_message": "Message",
+        "btn_send" : "Send",
+        "btn_sending" : "Send",
+        "btn_sent" : "Send"
+    },
+    "footer": {
+        "home": "Home",
+        "services": "Services",
+        "about": "About me",
+        "contact": "Contact",
+        "text_1": "Medical Reports"
+    }
+}
