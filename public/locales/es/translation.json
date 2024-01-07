@@ -1,0 +1,45 @@
+{
+    "navbar": {
+        "home": "Inicio",
+        "services": "Servicios",
+        "about": "Sobre mi",
+        "contact": "Contacto"
+    },
+    "home": {
+        "home_about_text_1": "Soy médica especializada en diagnóstico por imágenes. Mi trayectoria incluye formación en Medicina Nuclear, estudios internacionales en Tomografía Computada y Resonancia Magnética, así como una dedicación continua a la práctica médica y la docencia. Mi compromiso con la formación de futuros médicos y la mejora de la atención médica ha sido una constante en mi carrera. ¡Aprende más sobre mi historia y contribuciones en el campo de la medicina!",
+        "home_about_btn_1": " Ver más",
+        "home_services_title_1": "Informes de Estudios a Distancia",
+        "home_services_text_1": "Dirigido a: Instituciones médicas, médicos y pacientes para primera o segunda opinión. Estudios realizados en otros centros de diagnóstico.",
+        "home_contact_text_1": "Envie su consulta"
+    },
+    "services": {
+        "title_1": "Telediagnóstico",
+        "text_1": "Con nuestro servicio de telediagnóstico, la Dra. María Levin proporciona informes y diagnósticos de estudios a distancia. La eficiencia y la precisión son fundamentales para ofrecer un soporte rápido y de calidad a los profesionales de la salud.",
+        "title_2": "Resonancia Magnética",
+        "text_2": "Ofrecemos servicios avanzados de resonancia magnética para obtener imágenes detalladas de estructuras internas. Nuestro equipo altamente capacitado garantiza estudios precisos y análisis detallados para respaldar el diagnóstico médico.",
+        "title_3": "Tomografía Computada",
+        "text_3": "Realizamos estudios de tomografía computada de alta calidad para obtener imágenes detalladas de órganos y tejidos. Nuestros informes precisos y confiables contribuyen al diagnóstico preciso y al plan de tratamiento adecuado."
+    },
+    "about": {
+        "text_1": "Graduada en la Facultad de Medicina de UBA en 1975, con una primera especialización en Medicina Nuclear- la parte teórica cursada en las instalaciones de Aguas Pesadas de CONEA en Ezeiza, parte práctica como rotante en el Servicio de Medicina Nuclear del Hospital Roffo. En 1980 gané una beca de la empresa General Electric para estudiar Tomografía Computada en San Francisco, California,EEUU y durante esos meses estudié asimismo Resonancia Magnética en South San Francisco, con el Dr. León Kaufman que estaba desarrollando un prototipo. Entre 1981 y 1986 trabajé en una clínica privada de Rio de Janeiro , Brasil a cargo de Neuroimágenes, especialmente Tomografía de encéfalo y raquis. Desde 1989 hasta 2002 trabajé en Resonancia Magnética con el Dr Alberto Eurnekián en la clínica San Martín de Tours y Hospital Argerich (Servicio Tercerizado). Desde 1995 hasta la fecha me encuentro a cargo del Servicio de Tomografía Computada en el Hospital Santojanni, donde ejerzo la parte práctica y también docencia ya que en este hospital ( adscripto a UBA) se dicta la Carrera de Medicina desde Primer Año. Asimismo fui docente de UNSAM entre 2000 y 2022 para la Tecnicatura en Diagnóstico por Imágenes. Buenos Aires, Septiembre 18 de 2023"
+    },
+    "contact": {
+        "title_1": "Por favor, complete los siguientes campos",
+        "input_name": "Nombre",
+        "input_lastname": "Apellido",
+        "input_institution": "Institución",
+        "input_email": "Correo electrónico",
+        "input_phone": "Telefono",
+        "input_message": "Mensaje",
+        "btn_send" : "Enviar",
+        "btn_sending" : "Enviando",
+        "btn_sent" : "Enviado"
+    },
+    "footer": {
+        "home": "Inicio",
+        "services": "Servicios",
+        "about": "Sobre mi",
+        "contact": "Contacto",
+        "text_1": "Informe de estudios"
+    }
+}
