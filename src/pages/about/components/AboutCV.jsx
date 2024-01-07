@@ -17,11 +17,17 @@ const AboutCV = () => {
   }
 
   return (
-    <div className="about main-container">
-      <div className='about__text--1 text3 mb-3'>{sliceText(t('text_1'), 1)}</div>
-      <div className='about__text--2 text3'>{sliceText(t('text_1'),2)}</div>
+    <div className="main-container">
+      <div className='about__splitParagraph'>
+        <div className='about__text--1'>
+          <p className=' text3 mb-3'>{sliceText(t('text_1'), 1)}</p>
+        </div>
+        <div className='about__text--2'>
+          <p className='about__text--2 text3 mb-2'>{sliceText(t('text_1'), 2)}</p>
+          <p className='about__text--2 text3'>{t('text_2')}</p>
+        </div>
+      </div>
     </div>
-
   )
 }
 

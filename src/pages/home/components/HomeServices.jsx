@@ -10,6 +10,7 @@ const HomeServices = () => {
       <div className="homeServices">
         <p className='titlePri3'>{t('home_services_title_1')}</p>
         <p className='text1'>{t('home_services_text_1')}</p>
+        <p className='text1'>{t('home_services_text_2')}</p>
       </div>
     </div>
   )
