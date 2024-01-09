@@ -5,6 +5,11 @@
         "about": "About me",
         "contact": "Contact"
     },
+    "pageHeader": {
+        "services": "Services",
+        "about": "Professional Career",
+        "contact": "Contact"
+    },
     "home": {
         "home_about_text_1": "I am a Medical Doctor specialized in Diagnostic Imaging. My career includes training in Nuclear Medicine, international studies in Computed Tomography and Magnetic Resonance, as well as a continuous dedication to medical practice and teaching. My commitment to training future doctors and improving healthcare has been a constant. Learn more about my history and contributions to the field of Medicine!",
         "home_about_btn_1": " View more",
