@@ -32,7 +32,7 @@ const ServicesList = () => {
         <div className="serviceList--item3">
           <Service
             title={t('title_2')}
-            description={t('text_1')}
+            description={t('text_2')}
           />
         </div>
         <div className="serviceList--item4">
@@ -44,7 +44,7 @@ const ServicesList = () => {
         <div className="serviceList--item5">
           <Service
             title={t('title_3')}
-            description={t('text_1')}
+            description={t('text_3')}
           />
         </div>
         <div className="serviceList--item6">

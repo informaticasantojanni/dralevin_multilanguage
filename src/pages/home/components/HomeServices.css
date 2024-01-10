@@ -55,6 +55,12 @@
         grid-template-rows: repeat(3, 1fr);
     }
 
+    .homeServices--service-body {
+        display: flex;
+        flex-direction: column;
+        align-items: start;
+        justify-content: start;
+    }
 
     .homeServices--service-body p {
         text-align: start;
