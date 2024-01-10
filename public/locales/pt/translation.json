@@ -14,9 +14,12 @@
         "home_about_text_1": "Sou médica especializada em Diagnóstico por Imagens. O meu percurso profissional inclui formação em Medicina Nuclear, estudos internacionais em Tomografia Computadorizada e Ressonância Magnética, bem como uma dedicação contínua à prática e ensino médico. A minha aposta na formação de futuros médicos e na melhoria dos cuidados de saúde tem sido uma constante. Saiba mais sobre minha história e contribuições para a área da medicina!",
         "home_about_btn_1": "Ver mais",
         "home_services_title_1": "Serviços",
-        "home_services_text_1": "Telediagnóstico em tomografia computadorizada, ressonância magnética e PET",
-        "home_services_text_2": "Consulta para segunda opinião",
-        "home_contact_text_1": "Envie um e-mail"
+        "home_services_text_1": "Consulta de Segunda Opinião",
+        "home_services_text_2": "Colaboração Profissional e Segundas Opiniões",
+        "home_services_description_1": "Tranquilidade e clareza no seu diagnóstico. Oferecemos consulta especializada para pacientes particulares que realizaram estudos de Tomografia Computadorizada, Ressonância Magnética ou PET. Obtenha uma segunda opinião médica especializada: preencha nosso formulário e dê o primeiro passo para uma compreensão mais abrangente de sua saúde. Seu bem-estar é nossa prioridade.",
+        "home_services_description_2": "Oferecemos segundas opiniões especializadas para profissionais de saúde e centros médicos. A Dra. María Levin está comprometida em fornecer avaliações detalhadas com base em estudos de TC, RM e PET. Reforçamos a tomada de decisões clínicas e apoiamos a excelência médica",
+        "home_servicesContact_text_1": "> Envie sua consulta",
+        "home_servicesContact_text_2": "> Mais Informações"
     },
     "services": {
         "title_1": "Telediagnóstico",
