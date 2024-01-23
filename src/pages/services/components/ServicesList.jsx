@@ -16,7 +16,7 @@ const ServicesList = () => {
   return (
 
     <div className="main-container">
-      <div className="servicesList mt-5 mb-5">
+      <div className="servicesList mt-5 mb-8">
         <div className="serviceList--item1">
           <Service
             title={t('title_1')}
@@ -41,7 +41,7 @@ const ServicesList = () => {
           imgDesktop={serviceDesktop2}
           />
         </div>
-        <div className="serviceList--item5">
+        {/* <div className="serviceList--item5">
           <Service
             title={t('title_3')}
             description={t('text_3')}
@@ -52,7 +52,7 @@ const ServicesList = () => {
           imgMobile={serviceMobile3}
           imgDesktop={serviceDesktop3}
           />
-        </div>
+        </div> */}
       </div>
     </div>
 

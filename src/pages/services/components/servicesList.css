@@ -13,7 +13,7 @@
         display: grid;
         width: 100%;
         grid-template-columns: repeat(2, 1fr);
-        grid-template-rows: repeat(3,1fr);
+        grid-template-rows: repeat(2,1fr);
         max-width: 1200px;
         margin-left: auto;
         margin-right: auto;
@@ -34,12 +34,12 @@
     .serviceList--item4 {
         order: 3;
     }
-    .serviceList--item5 {
+    /* .serviceList--item5 {
         order: 5;
     }
     .serviceList--item6 {
         order: 6;
-    }
+    } */
 }
 
 
