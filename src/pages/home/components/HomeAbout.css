@@ -11,19 +11,20 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    text-align: center;
     padding: 1rem;
 
 }
 
 .homeAbout--text-title {
     border-bottom: 2px solid var(--colorPri5);
-    text-align: center;
+    /* text-align: center; */
 }
 
 .homeAbout--text-body {
     line-height: 2rem;
     margin-top: 1rem;
-    text-align: center;
+    /* text-align: center; */
 }
 
 .homeAbout--image {
@@ -41,7 +42,7 @@
 
 
 /* Media query for devices with a maximum width of 600 pixels */
-@media only screen and (min-width: 768px) {
+@media only screen and (min-width: 1440px) {
     .homeAbout {
         flex-direction: row;
         align-items: center;
@@ -49,6 +50,7 @@
 
     .homeAbout--text {
         width: 50%;
+        text-align: start;
 
     }
 
