@@ -9,7 +9,7 @@ const ContactForm = () => {
   // Define state variables for form fields
   const [name, setName] = useState('');
   const [lastname, setLastname] = useState('');
-  const [company, setCompany] = useState('');
+  // const [company, setCompany] = useState('');
   const [email, setEmail] = useState('');
   const [phone, setPhone] = useState('');
   const [message, setMessage] = useState('');
@@ -24,7 +24,7 @@ const ContactForm = () => {
       recipient: email,
       name: name,
       lastname: lastname,
-      company: company,
+      // company: company,
       phone: phone,
       message: message
     }
@@ -46,7 +46,7 @@ const ContactForm = () => {
         // Reset form fields after submission
         setName('');
         setLastname('');
-        setCompany('');
+        // setCompany('');
         setEmail('');
         setPhone('');
         setMessage('');
@@ -93,7 +93,7 @@ const ContactForm = () => {
                 />
               </div>
 
-              <div className="contactForm__form__input">
+              {/* <div className="contactForm__form__input">
                 <label>{t('input_institution')}</label>
                 <input
                   type="text"
@@ -101,7 +101,7 @@ const ContactForm = () => {
                   onChange={(e) => setCompany(e.target.value)}
                   required
                 />
-              </div>
+              </div> */}
 
 
               <div className="contactForm__form__input">
