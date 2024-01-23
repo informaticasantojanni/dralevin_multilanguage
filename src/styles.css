@@ -48,6 +48,46 @@ body {
 
 /* FONTS */
 
+/* Font Size */
+
+.titleSize1 {
+    font-size: calc(3vw + 14px);
+}
+
+.titleSize2 {
+    font-size: calc(3vw + 16px);
+}
+
+.titleSize3 {
+    font-size: calc(3vw + 18px);
+}
+
+.textSize1 {
+    font-size: calc(0.8vw + 12px);
+}
+
+.textSize2 {
+    font-size: calc(0.5vw + 14px);
+}
+
+.textSize3 {
+    font-size: calc(0.5vw + 16px);
+}
+
+.titleStyle1 {
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+
+.textStyle1 {
+    font-family: 'Manrope', sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+}
+
 .titlePri1 {
     font-family: 'Poppins', sans-serif;
     font-weight: 800;

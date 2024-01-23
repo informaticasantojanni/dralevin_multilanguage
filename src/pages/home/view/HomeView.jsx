@@ -8,9 +8,12 @@ import HomeHero from '../components/HomeHero'
 const HomeView = () => {
   return (
     <div>
-      <HomeHero/>
-      <HomeAbout/>
-      <HomeServices/>
+      <HomeHero
+        heroTitle='¿Tenes dudas sobre tu diagnóstico?'
+        heroParagraph='Consulta por una segunda opinión especializada en imágenes'
+      />
+      <HomeAbout />
+      <HomeServices />
       {/* <HomeContact/> */}
     </div>
   )
