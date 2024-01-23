@@ -11,6 +11,8 @@
         "contact": "Contato"
     },
     "home": {
+        "home_hero_title": "Tem dúvidas sobre o seu diagnóstico?",
+        "home_hero_paragraph": "Consulte para uma segunda opinião especializada em imagens",
         "home_about_text_1": "Sou médica especializada em Diagnóstico por Imagens. O meu percurso profissional inclui formação em Medicina Nuclear, estudos internacionais em Tomografia Computadorizada e Ressonância Magnética, bem como uma dedicação contínua à prática e ensino médico. A minha aposta na formação de futuros médicos e na melhoria dos cuidados de saúde tem sido uma constante. Saiba mais sobre minha história e contribuições para a área da medicina!",
         "home_about_btn_1": "Ver mais",
         "home_services_title_1": "Serviços",
