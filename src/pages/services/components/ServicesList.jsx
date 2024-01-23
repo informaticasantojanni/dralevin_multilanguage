@@ -16,7 +16,7 @@ const ServicesList = () => {
   return (
 
     <div className="main-container">
-      <div className="servicesList mt-5 mb-8">
+      <div className="servicesList mt-5 mb-10">
         <div className="serviceList--item1">
           <Service
             title={t('title_1')}
