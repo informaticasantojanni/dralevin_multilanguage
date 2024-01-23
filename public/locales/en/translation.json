@@ -11,20 +11,23 @@
         "contact": "Contact"
     },
     "home": {
-        "home_about_text_1": "I am a Medical Doctor specialized in Diagnostic Imaging. My career includes training in Nuclear Medicine, international studies in Computed Tomography and Magnetic Resonance, as well as a continuous dedication to medical practice and teaching. My commitment to training future doctors and improving healthcare has been a constant. Learn more about my history and contributions to the field of Medicine!",
+        "home_about_text_1": "I am a doctor specialized in diagnostic imaging. My career includes training in Nuclear Medicine, international studies in Computed Tomography and Magnetic Resonance, as well as a continuous dedication to medical practice and teaching. My commitment to training future doctors and improving healthcare has been a constant in my career. Learn more about my history and contributions to the field of medicine!",
         "home_about_btn_1": " View more",
         "home_services_title_1": "Services",
-        "home_services_text_1": "Telediagnosis in CT, MRI and PET",
-        "home_services_text_2": "Interconsultation for Second Opinion",
-        "home_contact_text_1": "Send an email"
+        "home_services_text_1": "Second Opinion Consultation",
+        "home_services_text_2": "Professional Collaboration and Second Opinions",
+        "home_services_description_1": "We offer specialized consultation for private patients who have undergone studies in Computed Tomography, Magnetic Resonance Imaging, or PET. Get an expert second medical opinion: fill out our form and take the first step towards a more comprehensive understanding of your health.",
+        "home_services_description_2": "We offer specialized second opinions for healthcare professionals and medical centers. Dr. María Levin is committed to providing detailed assessments based on CT, MRI, and PET studies. We strengthen clinical decision-making and support medical excellence.",
+        "home_servicesContact_text_1": "> Send your inquiry",
+        "home_servicesContact_text_2": "> More Information"
     },
     "services": {
-        "title_1": "Telediagnosis",
-        "text_1": "With our telediagnosis service, Dr. María Levin provides remote study reports and diagnoses. Efficiency and precision are essential to provide fast, quality support to healthcare professionals.",
-        "title_2": "Magnetic resonance",
-        "text_2": "We offer advanced MRI services to obtain detailed images of internal structures. Our highly trained team ensures accurate studies and detailed analyzes to support the medical diagnosis.",
+        "title_1": "Private Consultation for Second Opinion",
+        "text_1": "Gain peace of mind and clarity in your diagnosis. We offer a specialized consultation service designed for private patients who have undergone Computed Tomography (CT), Magnetic Resonance Imaging (MRI), or Positron Emission Tomography (PET) studies. Get an expert second medical opinion through a simple process: complete our contact form and take the first step towards a more comprehensive understanding of your health. Your well-being is our priority.",
+        "title_2": "Professional Collaboration",
+        "text_2": "Our dedicated Dr. María Levin is available to collaborate closely with professionals and medical entities, providing detailed assessments based on computed tomography (CT), magnetic resonance imaging (MRI), and positron emission tomography (PET) studies. Our commitment is to provide valuable information that contributes to patient well-being and strengthens the quality of medical care.",
         "title_3": "Computed Tomography",
-        "text_3": "We perform high-quality computed tomography studies to obtain detailed images of organs and tissues. Our accurate and reliable reports contribute to accurate diagnosis and proper treatment plan."
+        "text_3": "This service is specially designed for: Healthcare professionals seeking additional perspectives; Diagnostic and imaging centers seeking specialized collaborations; Medical institutions valuing excellence and precision in clinical decision-making."
     },
     "about": {
         "text_1": "Graduated from the UBA Faculty of Medicine in 1975, with a first specialization in Nuclear Medicine - the theoretical part studied at the CONEA Heavy Water facilities in Ezeiza, the practical part as a fellow of the Roffo Hospita´s Nuclear Medicine Department. In 1980 I was granted a scholarship from the General Electric CO to study Computed Tomography in San Francisco, California, USA and during those months I also studied Magnetic Resonance in South San Francisco, with Dr. León Kaufman who was developing a prototype. Between 1981 and 1986 I worked in a private clinic in Rio de Janeiro, Brazil in charge of Neuroimaging, especially Tomography of the brain and spine. From 1989 to 2002 I worked in total Body Magnetic Resonance with Dr Alberto Eurnekián at the San Martín de Tours clinic and Argerich Hospital (Outsourced Service). Since 1995 to date, I have been in charge of the Computed Tomography Service at the Santojanni Hospital, taking care of the practice and also teaching since  this hospital is attached to UBA Medical School. I have been a Radiographers Professor at UNSAM between 2000 and 2022 as well.",

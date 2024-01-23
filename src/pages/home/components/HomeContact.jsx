@@ -13,7 +13,7 @@ const HomeContact = () => {
 
           <div className="homeContact__cell">
             <div className="homeContact__cell__icon">
-              <span class="material-symbols-outlined google-icon">call</span>
+              <span className="material-symbols-outlined google-icon">call</span>
             </div>
             <div className="homeContact__cell__text">
               <p>11-1234-5678</p>

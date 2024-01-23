@@ -14,17 +14,20 @@
         "home_about_text_1": "Soy médica especializada en diagnóstico por imágenes. Mi trayectoria incluye formación en Medicina Nuclear, estudios internacionales en Tomografía Computada y Resonancia Magnética, así como una dedicación continua a la práctica médica y la docencia. Mi compromiso con la formación de futuros médicos y la mejora de la atención médica ha sido una constante en mi carrera. ¡Aprende más sobre mi historia y contribuciones en el campo de la medicina!",
         "home_about_btn_1": " Ver más",
         "home_services_title_1": "Servicios",
-        "home_services_text_1": "Telediagnóstico en TC, RM y PET",
-        "home_services_text_2": "Interconsulta para segunda opinión",
-        "home_contact_text_1": "Envie su consulta"
+        "home_services_text_1": "Interconsulta para Segunda Opinión",
+        "home_services_text_2": "Colaboración Profesional y Segundas Opiniones",
+        "home_services_description_1": "Ofrecemos interconsulta especializada para pacientes particulares que hayan realizado estudios de Tomografía Computada, Resonancia Magnética o PET. Obtenga una segunda opinión médica experta: complete nuestro formulario y dé el primer paso hacia una comprensión más completa de su salud.",
+        "home_services_description_2": "Ofrecemos segundas opiniones especializadas para profesionales de la salud y centros médicos. La Dra. María Levin está comprometida en proporcionar evaluaciones detalladas basadas en estudios de TC, RM y PET. Fortalecemos la toma de decisiones clínicas y brindamos apoyo a la excelencia médica.",
+        "home_servicesContact_text_1": "> Envie su consulta",
+        "home_servicesContact_text_2": "> Más info"
     },
     "services": {
-        "title_1": "Telediagnóstico",
-        "text_1": "Con nuestro servicio de telediagnóstico, la Dra. María Levin proporciona informes y diagnósticos de estudios a distancia. La eficiencia y la precisión son fundamentales para ofrecer un soporte rápido y de calidad a los profesionales de la salud.",
-        "title_2": "Resonancia Magnética",
-        "text_2": "Ofrecemos servicios avanzados de resonancia magnética para obtener imágenes detalladas de estructuras internas. Nuestro equipo altamente capacitado garantiza estudios precisos y análisis detallados para respaldar el diagnóstico médico.",
+        "title_1": "Interconsulta Particular para Segunda Opinión",
+        "text_1": "Obtenga tranquilidad y claridad en su diagnóstico. Ofrecemos un servicio de interconsulta especializado diseñado para pacientes particulares que hayan realizado estudios de Tomografía Computada (TC), Resonancia Magnética (RM) o Tomografía por Emisión de Positrones (PET). Obtenga una segunda opinión médica experta a través de un proceso simple: complete nuestro formulario de contacto y dé el primer paso hacia una comprensión más completa de su salud. Su bienestar es nuestra prioridad.",
+        "title_2": "Colaboración Profesional",
+        "text_2": "Nuestra dedicada Dra. María Levin está disponible para colaborar estrechamente con profesionales y entidades médicas, proporcionando evaluaciones detalladas basadas en estudios de tomografía computada (TC), resonancia magnética (RM) y tomografía por emisión de positrones (PET). Nuestro compromiso es facilitar información valiosa que contribuya al bienestar de los pacientes y fortalezca la calidad de la atención médica.",
         "title_3": "Tomografía Computada",
-        "text_3": "Realizamos estudios de tomografía computada de alta calidad para obtener imágenes detalladas de órganos y tejidos. Nuestros informes precisos y confiables contribuyen al diagnóstico preciso y al plan de tratamiento adecuado."
+        "text_3": "Este servicio está especialmente diseñado para: Profesionales de la salud en busca de perspectivas adicionales; Centros de diagnóstico e imágenes que buscan colaboraciones especializadas; Instituciones médicas que valoran la excelencia y la precisión en la toma de decisiones clínicas."
     },
     "about": {
         "text_1": "Graduada en la Facultad de Medicina de UBA en 1975, con una primera especialización en Medicina Nuclear- la parte teórica cursada en las instalaciones de Aguas Pesadas de CONEA en Ezeiza, parte práctica como rotante en el Servicio de Medicina Nuclear del Hospital Roffo. En 1980 gané una beca de la empresa General Electric para estudiar Tomografía Computada en San Francisco, California,EEUU y durante esos meses estudié asimismo Resonancia Magnética en South San Francisco, con el Dr. León Kaufman que estaba desarrollando un prototipo. Entre 1981 y 1986 trabajé en una clínica privada de Rio de Janeiro , Brasil a cargo de Neuroimágenes, especialmente Tomografía de encéfalo y raquis. Desde 1989 hasta 2002 trabajé en Resonancia Magnética con el Dr Alberto Eurnekián en la clínica San Martín de Tours y Hospital Argerich (Servicio Tercerizado). Desde 1995 hasta la fecha me encuentro a cargo del Servicio de Tomografía Computada en el Hospital Santojanni, donde ejerzo la parte práctica y también docencia ya que en este hospital ( adscripto a UBA) se dicta la Carrera de Medicina desde Primer Año. Asimismo fui docente de UNSAM entre 2000 y 2022 para la Tecnicatura en Diagnóstico por Imágenes.",

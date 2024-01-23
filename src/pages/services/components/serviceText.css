@@ -20,20 +20,15 @@
 
     .serviceText {
         padding-left: 2rem;
-        /* padding-right: 1rem; */
+        padding-right: 0.5rem;
         text-align: start;     
     }
 
-    .serviceText h2 {
-        padding-bottom: 2rem;
-        font-size: 2.3rem;
-        text-align: start;
-    }
 
     .serviceText p {
         padding-bottom: 2rem;
         padding-right: 1rem;
-        font-size: 1.4rem;
+        /* font-size: 1.4rem; */
         line-height: 2rem;
     }
 

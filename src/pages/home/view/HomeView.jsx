@@ -11,7 +11,7 @@ const HomeView = () => {
       <HomeHero/>
       <HomeAbout/>
       <HomeServices/>
-      <HomeContact/>
+      {/* <HomeContact/> */}
     </div>
   )
 }
