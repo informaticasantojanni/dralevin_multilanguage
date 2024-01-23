@@ -10,7 +10,7 @@ const PageHeader = ({ title }) => {
     return (
         <div className="header">
             <div className="header--container">
-                <h2 className='titleSec2'>{title}</h2>
+                <h2 className='titleSize2 titleStyle1'>{title}</h2>
             </div>
         </div>
     )
