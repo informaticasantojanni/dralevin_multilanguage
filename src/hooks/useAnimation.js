@@ -1,28 +1,28 @@
 import { useEffect } from 'react';
 
-const useAnimation = (setAnimation, refElement) => {
-  useEffect(() => {
-    const elemento = refElement.current;
+const useAnimation = (setAnimation, refElement, factor) => {
 
-    const handleScroll = () => {
-      const scrollValue = window.scrollY;
+    useEffect(() => {
+        const componentRef = refElement.current;
 
-      if (elemento) {
-        const top = elemento.offsetTop;
-        console.log("top and scroll: ", top, scrollValue);
+        const handleScroll = () => {
+            const scrollValue = window.scrollY;
 
-        setAnimation(scrollValue > 0.5 * top);
-      }
-    };
+            if (componentRef) {
+                const top = componentRef.offsetTop;
+                if (scrollValue > factor * top) setAnimation(true)
 
-    // Agregar el evento scroll al montar el componente
-    window.addEventListener('scroll', handleScroll);
+            }
+        };
 
-    // Limpiar el evento al desmontar el componente
-    return () => {
-      window.removeEventListener('scroll', handleScroll);
-    };
-  }, [setAnimation, refElement]);
+        // Agregar el evento scroll al montar el componente
+        window.addEventListener('scroll', handleScroll);
+
+        // Limpiar el evento al desmontar el componente
+        return () => {
+            window.removeEventListener('scroll', handleScroll);
+        };
+    }, [setAnimation, refElement]);
 };
 
 export default useAnimation;

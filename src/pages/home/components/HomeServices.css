@@ -51,11 +51,10 @@
     }
 }
 
-/* .animation {
-    animation: fadeIn 3s ease-in;
+.animation {
     opacity: 1;
     transform: translateY(0);
-} */
+}
 
 @media only screen and (min-width: 1440px) {
 

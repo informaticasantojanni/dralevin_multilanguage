@@ -8,12 +8,13 @@ import useAnimation from '../../../hooks/useAnimation';
 
 const HomeServices = () => {
   const { t } = useTranslation('translation', { keyPrefix: 'home' });
-  const serviceRef1 = useRef(null); //Inicialization
+  const refHomeServices = useRef(null); //Inicialization
   const [animation1, setAnimation1] = useState(false);
-  useAnimation(setAnimation1, serviceRef1);
+  const factor = 0.5;
+  useAnimation(setAnimation1, refHomeServices, factor);
 
   return (
-    <div ref={serviceRef1} className='main-container'>
+    <div ref={refHomeServices} className='main-container'>
       <div className="homeServices mb-5">
         <h2 className='homeServices--text-title titlePri2'>{t('home_services_title_1')}</h2>
         <div className="homeServices--container">

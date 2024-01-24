@@ -10,9 +10,10 @@ const HomeAbout = () => {
 
   const [trunkLimit, setTrunkLimit] = useState(150);
   const { t } = useTranslation('translation', { keyPrefix: 'home' });
-  const serviceRef2 = useRef(null); //Inicialization
+  const refHomeAbout = useRef(null); //Inicialization
   const [animation2, setAnimation2] = useState(false);
-  useAnimation(setAnimation2, serviceRef2);
+  const factor = 0.2;
+  useAnimation(setAnimation2, refHomeAbout, factor);
 
   const truncate = (description) => {
     const words = description.split(' ');
@@ -47,7 +48,7 @@ const HomeAbout = () => {
   return (
 
 
-    <div ref={serviceRef2} className="main-container">
+    <div ref={refHomeAbout} className="main-container">
     {/* <div className="main-container"> */}
       <div className="homeAbout mt-5 mb-5">
         <div className={(animation2) ? "homeAbout--text animation" : "homeAbout--text"}>

@@ -50,6 +50,10 @@
     width: 100%;
 }
 
+.animation {
+    opacity: 1;
+    transform: translateY(0);
+}
 
 /* Media query for devices with a maximum width of 600 pixels */
 @media only screen and (min-width: 1440px) {

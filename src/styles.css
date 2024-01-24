@@ -303,22 +303,12 @@ body {
 }
 
 
-.animation {
-    opacity: 1;
-    transform: translateY(0);
-}
-
 
 @media only screen and (min-width: 768px) {
     .main-container {
         width: 80%;
         max-width: 1440px;
         margin: 0 auto;
-    }
-    
-    .animation {
-        opacity: 1;
-        transform: translateY(0);
     }
 
 }
