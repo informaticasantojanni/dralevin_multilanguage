@@ -1,20 +1,72 @@
-.hero-container {
+.hero {
+    display: flex;
+    flex-direction: column;
+}
 
-    margin: 0 auto;
-    background-image: url('../../../assets/abstract_background_3.jpg');
-    background-size: cover;
-    background-position: left;
-    background-repeat: no-repeat;
+.hero--container {
+    width: 100%;
     height: 500px;
+    position: relative;
+    background: url('../../../assets/abstract_background_3.jpg') left/cover no-repeat;
+}
+
+.hero--container::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.6);
+}
+
+.hero--container-body {
+    width: 100%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 1rem;
+    text-align: center;
     
 }
 
-/* .hero-container::before {
-    content: "";
-    position: absolute;
-    top: 0;
-    right: 0;
-    bottom: 0;
-    left: 0;
-    background: rgba(0, 0, 0, 0.5);
-} */
+.hero--container-body h2 {
+    color: var(--colorPri4);
+    -webkit-text-stroke: 0.5px var(--colorPri8);
+    
+}
+
+.hero--container-body p {
+    color: var(--colorPri2);
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(-30px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.hero--container-body h2,
+.hero--container-body p {
+    animation: fadeIn 3s ease-out;
+}
+
+
+@media only screen and (min-width: 768px) {
+    
+    .hero--container-body {
+        text-align: start;
+    }
+    
+    .hero--container-body h2 {
+        -webkit-text-stroke: 1px var(--colorPri8);
+    }
+
+    .hero--container-body p {
+        padding-left: 1rem;
+    }
+}

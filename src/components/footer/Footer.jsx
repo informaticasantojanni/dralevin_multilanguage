@@ -12,21 +12,21 @@ const Footer = () => {
   return (
     <footer>
       <div className='footer-container'>
-        <div class="footer-section">
+        <div className="footer-section">
           <div className="container">
             <p className='logo mt-0 mb-1'>Dra. María Elena Levín</p>
             <p className='mb-0 mt-0'>{t('text_1')}</p>
           </div>
         </div>
 
-        <div class="footer-section">
+        <div className="footer-section">
           <div className="container">
             <p className='mb-1'>Cell: 11-1234-5678</p>
             <p className='mt-0'>E-mail: dralevin@gmail.com</p>
           </div>
         </div>
 
-        <div class="footer-section">
+        <div className="footer-section">
           <div className="container">
             <p>{t('home')}</p>
             <p>{t('services')}</p>

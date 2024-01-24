@@ -1,0 +1,57 @@
+{
+    "navbar": {
+        "home": "Início",
+        "services": "Serviços",
+        "about": "Sobre mim",
+        "contact": "Contato"
+    },
+    "pageHeader": {
+        "services": "Serviços",
+        "about": "Sobre Mim",
+        "contact": "Contato"
+    },
+    "home": {
+        "home_hero_title": "Tem dúvidas sobre o seu diagnóstico?",
+        "home_hero_paragraph": "Consulte para uma segunda opinião especializada em imagens",
+        "home_about_text_1": "Sou médica especializada em Diagnóstico por Imagens. O meu percurso profissional inclui formação em Medicina Nuclear, estudos internacionais em Tomografia Computadorizada e Ressonância Magnética, bem como uma dedicação contínua à prática e ensino médico. A minha aposta na formação de futuros médicos e na melhoria dos cuidados de saúde tem sido uma constante. Saiba mais sobre minha história e contribuições para a área da medicina!",
+        "home_about_btn_1": "Ver mais",
+        "home_services_title_1": "Serviços",
+        "home_services_text_1": "Consulta de Segunda Opinião",
+        "home_services_text_2": "Colaboração Profissional e Segundas Opiniões",
+        "home_services_description_1": "Oferecemos consulta especializada para pacientes particulares que realizaram estudos de Tomografia Computadorizada, Ressonância Magnética ou PET. Obtenha uma segunda opinião médica especializada: preencha nosso formulário e dê o primeiro passo para uma compreensão mais abrangente de sua saúde.",
+        "home_services_description_2": "Oferecemos segundas opiniões especializadas para profissionais de saúde e centros médicos. A Dra. María Levin está comprometida em fornecer avaliações detalhadas com base em estudos de TC, RM e PET. Reforçamos a tomada de decisões clínicas e apoiamos a excelência médica",
+        "home_servicesContact_text_1": "> Envie sua consulta",
+        "home_servicesContact_text_2": "> Mais Informações"
+    },
+    "services": {
+        "title_1": "Consulta Privada para Segunda Opinião",
+        "text_1": "Obtenha tranquilidade e clareza no seu diagnóstico. Oferecemos um serviço de consulta especializado projetado para pacientes privados que realizaram estudos de Tomografia Computadorizada (TC), Ressonância Magnética (RM) ou Tomografia por Emissão de Pósitrons (PET). Obtenha uma segunda opinião médica especializada através de um processo simples: preencha nosso formulário de contato e dê o primeiro passo para uma compreensão mais abrangente de sua saúde. Seu bem-estar é nossa prioridade.",
+        "title_2": "Colaboração Profissional",
+        "text_2": "Nossa dedicada Dra. María Levin está disponível para colaborar estreitamente com profissionais e entidades médicas, fornecendo avaliações detalhadas com base em estudos de tomografia computadorizada (TC), ressonância magnética (RM) e tomografia por emissão de pósitrons (PET). Nosso compromisso é fornecer informações valiosas que contribuam para o bem-estar dos pacientes e fortaleçam a qualidade do atendimento médico.",
+        "title_3": "Tomografia Computadorizada",
+        "text_3": "Este serviço é especialmente projetado para: Profissionais de saúde em busca de perspectivas adicionais; Centros de diagnóstico e imagens em busca de colaborações especializadas; Instituições médicas que valorizam a excelência e a precisão na tomada de decisões clínicas."
+    },
+    "about": {
+        "text_1": "Formada pela Faculdade de Medicina da UBA em 1975, com especialização inicial em Medicina Nuclear - a parte teórica foi estudada nas instalações de Água Pesada da CONEA em Ezeiza, e a parte prática como bolsista do Departamento de Medicina Nuclear do Hospital Roffo. Em 1980, fui agraciado com uma bolsa da General Electric CO para estudar Tomografia Computadorizada em San Francisco, Califórnia, EUA, e durante esses meses, também estudei Ressonância Magnética em South San Francisco, com o Dr. León Kaufman, que estava desenvolvendo um protótipo. Entre 1981 e 1986, trabalhei numa clínica privada no Rio de Janeiro, Brasil, responsável por Neuroimagem, especialmente Tomografia do cérebro e da coluna. De 1989 a 2002, atuei em Ressonância Magnética de Corpo Total com o Dr. Alberto Eurnekián na clínica San Martín de Tours e no Hospital Argerich (Serviço Terceirizado). Desde 1995 até o momento, estou à frente do Serviço de Tomografia Computadorizada no Hospital Santojanni, cuidando da prática e também lecionando, pois este hospital está vinculado à Faculdade de Medicina da UBA. Também fui professor de Radiologistas na UNSAM de 2000 a 2022.",
+        "text_2": "Buenos Aires, 18 de setembro de 2023"
+    },
+    "contact": {
+        "title_1": "Por favor, preencha as seguintes informações",
+        "input_name": "Nome",
+        "input_lastname": "Sobrenome",
+        "input_institution": "Instituição",
+        "input_email": "E-mail",
+        "input_phone": "Telefone",
+        "input_message": "Mensagem",
+        "btn_send": "Enviar",
+        "btn_sending": "Enviando",
+        "btn_sent": "Enviado"
+    },
+    "footer": {
+        "home": "Início",
+        "services": "Serviços",
+        "about": "Sobre mim",
+        "contact": "Contato",
+        "text_1": "Relatórios Médicos"
+    }
+}

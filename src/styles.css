@@ -48,6 +48,46 @@ body {
 
 /* FONTS */
 
+/* Font Size */
+
+.titleSize1 {
+    font-size: calc(3vw + 14px);
+}
+
+.titleSize2 {
+    font-size: calc(3vw + 16px);
+}
+
+.titleSize3 {
+    font-size: calc(3vw + 18px);
+}
+
+.textSize1 {
+    font-size: calc(0.8vw + 12px);
+}
+
+.textSize2 {
+    font-size: calc(0.5vw + 14px);
+}
+
+.textSize3 {
+    font-size: calc(0.5vw + 16px);
+}
+
+.titleStyle1 {
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+
+.textStyle1 {
+    font-family: 'Manrope', sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+}
+
 .titlePri1 {
     font-family: 'Poppins', sans-serif;
     font-weight: 800;
@@ -173,6 +213,27 @@ body {
     margin-top: 5rem;
 }
 
+.mt-6 {
+    margin-top: 6rem;
+}
+
+.mt-7 {
+    margin-top: 7rem;
+}
+
+.mt-8 {
+    margin-top: 8rem;
+}
+
+.mt-9 {
+    margin-top: 9rem;
+}
+
+.mt-10 {
+    margin-top: 10rem;
+}
+
+
 .mb-0 {
     margin-bottom: 0rem;
 }
@@ -195,6 +256,26 @@ body {
 
 .mb-5 {
     margin-bottom: 5rem;
+}
+
+.mb-6 {
+    margin-bottom: 6rem;
+}
+
+.mb-7 {
+    margin-bottom: 7rem;
+}
+
+.mb-8 {
+    margin-bottom: 8rem;
+}
+
+.mb-9 {
+    margin-bottom: 9rem;
+}
+
+.mb-10 {
+    margin-bottom: 10rem;
 }
 
 .mr-0 {
