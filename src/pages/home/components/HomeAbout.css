@@ -14,6 +14,10 @@
     text-align: center;
     padding: 1rem;
 
+    /* Animation  */
+    opacity: 0;
+    transform: translateY(50px);
+    transition: 2s ease-in;
 }
 
 .homeAbout--text-title {
@@ -34,9 +38,15 @@
  background-position: top;
     background-repeat: no-repeat;
     background-size: cover; */
+    /* Animation */
+    /* Animation  */
+    opacity: 0;
+    transform: translateY(50px);
+    transition: 2s ease-in;
+
 }
 
-.homeAbout--image  img {
+.homeAbout--image img {
     width: 100%;
 }
 
