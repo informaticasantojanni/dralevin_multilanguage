@@ -4,7 +4,8 @@ import { useTranslation } from 'react-i18next';
 
 const ContactForm = () => {
   const { t } = useTranslation('translation', { keyPrefix: 'contact' });
-  const urlFetchDailu = "https://script.google.com/macros/s/AKfycbyKxrp0TOhXXRHhdt0_YRFeJKdMA2ei3242YwtFT5Kzlcdy4QIGbS39AzY15e9RQGut/exec";
+  // const urlFetchDailu = "https://script.google.com/macros/s/AKfycbyKxrp0TOhXXRHhdt0_YRFeJKdMA2ei3242YwtFT5Kzlcdy4QIGbS39AzY15e9RQGut/exec";
+  const urlFetchDailu = "https://script.google.com/macros/s/AKfycbzmMD_naIhczTo_OYpqZ7_xShTq_GWI2LU0YPeMeGB4HyL8nC0AhmkHUF3GitEtUIIYYw/exec";
 
   // Define state variables for form fields
   const [name, setName] = useState('');

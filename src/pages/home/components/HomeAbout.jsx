@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react'
 import "./HomeAbout.css"
 import "../../../../src/styles.css"
 import { Link } from 'react-router-dom';
-import aboutImage from '../../../assets/Levin_frente_1024.jpg';
+import aboutImage from '../../../assets/Levin_ai.jpg';
 import { useTranslation } from 'react-i18next';
 
 
