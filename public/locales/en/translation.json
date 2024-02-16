@@ -11,8 +11,10 @@
         "contact": "Contact"
     },
     "home": {
-        "home_hero_title": "Have doubts about your diagnosis?",
-        "home_hero_paragraph": "Consult for a specialized second opinion in imaging",
+        "home_hero_title_previous": "Have doubts about your diagnosis?",
+        "home_hero_paragraph_previous": "Consult for a specialized second opinion in imaging",
+        "home_hero_title": "Professional Collaboration in Radiodiagnostics",
+        "home_hero_paragraph": "Online reports for CT scans, MRI, and PET scans",
         "home_about_text_1": "I am a doctor specialized in diagnostic imaging. My career includes training in Nuclear Medicine, international studies in Computed Tomography and Magnetic Resonance, as well as a continuous dedication to medical practice and teaching. My commitment to training future doctors and improving healthcare has been a constant in my career. Learn more about my history and contributions to the field of medicine!",
         "home_about_btn_1": " View more",
         "home_services_title_1": "Services",

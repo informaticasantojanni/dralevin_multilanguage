@@ -161,6 +161,11 @@ body {
 
 }
 
+.textShadow1 {
+    text-shadow: 1px 1px 3px rgba(213, 203, 218, 0.5);
+    text-decoration: none;
+}
+
 .main-container {
     width: 100%;
 

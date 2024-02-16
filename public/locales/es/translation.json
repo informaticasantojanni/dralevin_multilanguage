@@ -11,8 +11,10 @@
         "contact": "Contacto"
     },
     "home": {
-        "home_hero_title": "¿Tenes dudas sobre tu diagnóstico?",
-        "home_hero_paragraph": "Consulta por una segunda opinión especializada en imágenes",
+        "home_hero_title_previous": "¿Tenes dudas sobre tu diagnóstico?",
+        "home_hero_paragraph_previous": "Consulta por una segunda opinión especializada en imágenes",
+        "home_hero_title": "Colaboración profesional en Radiodiagnóstico",
+        "home_hero_paragraph": "Informes de TAC, RM y PET online",
         "home_about_text_1": "Soy médica especializada en diagnóstico por imágenes. Mi trayectoria incluye formación en Medicina Nuclear, estudios internacionales en Tomografía Computada y Resonancia Magnética, así como una dedicación continua a la práctica médica y la docencia. Mi compromiso con la formación de futuros médicos y la mejora de la atención médica ha sido una constante en mi carrera. ¡Aprende más sobre mi historia y contribuciones en el campo de la medicina!",
         "home_about_btn_1": " Ver más",
         "home_services_title_1": "Servicios",
